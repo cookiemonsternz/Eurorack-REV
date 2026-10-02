@@ -26,6 +26,8 @@ In terms of getting it set up, you'll need to program the rp2040. To do this, br
 
 ## Schematics
 ![Schematic](./hardware/rev/plots/rev.svg)
+![PCB Front](https://cdn.hackclub.com/01a0fae4-e547-7953-ab75-c9830d324053/paste-1790915694881.png)
+![PCB Back](https://cdn.hackclub.com/01a0fae6-2c58-7859-a9c0-461ae4f0966f/Screenshot%202026-10-02%20173353.png)
 
 ## Zine Page
 ![Zine page](./zine/zine.png)
